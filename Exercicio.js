@@ -14,7 +14,7 @@ do {
 
 console.log("Bem vindo ao menu de exercicios!")
 
-resposta = prompt("Digite um numero de 1 a 6 para escolher um exercicio. Digite 'sair' para encerrar.: ")
+resposta = prompt("Digite um numero de 1 a 6 para escolher um exercicio, ou, digite 'sair' para encerrar.: ")
 
     switch (resposta) {
 
